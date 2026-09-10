@@ -1,0 +1,6 @@
+entity_type,total_records,mean_sensor_temp_c,p95_mkt_value,anomaly_count
+mRNA Vaccines,234,54.04,103.36,23
+Monoclonal Antibodies,248,53.51,109.69,19
+Cell Therapy Kits,231,52.13,102.59,30
+Insulin Analogs,242,49.86,101.98,23
+Enzyme Replacements,245,51.4,103.2,21
